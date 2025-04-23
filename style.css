@@ -302,7 +302,10 @@ ul {
 }
 
 @media screen and (max-width: 980px) {
-    
+    .block-2-header {
+  display: block;
+  justify-content: space-between;
+}
 }
 @media screen and (max-width: 840px) {
     .grid-container {
